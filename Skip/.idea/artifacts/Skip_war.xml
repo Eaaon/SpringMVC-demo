@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Skip:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Skip.war">
+      <element id="artifact" artifact-name="Skip:war exploded" />
+    </root>
+  </artifact>
+</component>
